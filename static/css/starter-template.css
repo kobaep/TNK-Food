@@ -1,0 +1,60 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+.bs-docs-masthead .bs-docs-booticon {
+    margin: 0 auto 30px;
+}
+.bs-docs-booticon-outline {
+    background-color: transparent;
+    border: 1px solid #cdbfe3;
+}
+.bs-docs-booticon-lg {
+    font-size: 108px;
+    height: 144px;
+    line-height: 140px;
+    width: 230px;
+}
+.bs-docs-booticon {
+    background-color: #3498db;
+    border-radius: 15%;
+    color: #fff;
+    cursor: default;
+    display: block;
+    font-weight: 500;
+    text-align: center;
+}
+.bs-docs-masthead {
+    padding: 80px 0;
+}
+.bs-docs-featurette + .bs-docs-footer {
+    border-top: 0 none;
+    margin-top: 0;
+}
+.bs-docs-footer {
+    border-top: 1px solid #e5e5e5;
+    color: #3498db;
+    margin-top: 100px;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    text-align: center;
+    background-color: #bdc3c7;
+}
+.bs-docs-social {
+    margin-bottom: 20px;
+    text-align: center;
+}
+.bs-docs-social-buttons {
+    display: inline-block;
+    list-style: outside none none;
+    margin-bottom: 0;
+    padding-left: 0;
+}
+.bs-docs-social-buttons li {
+    display: inline-block;
+    line-height: 1;
+    padding: 5px 8px;
+}
